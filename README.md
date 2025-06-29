@@ -28,3 +28,10 @@ To better understand how the model performed during training, a visualization is
 
 In conclusion, this project showcases a foundational deep learning pipeline using CNNs for image classification. It demonstrates all major components of an image classification task—data loading and visualization, CNN model design, training, evaluation, and result analysis. Despite being relatively simple in structure, this project is powerful and serves as a strong introduction to image classification using deep learning. It can be further improved by adding data augmentation, dropout layers to reduce overfitting, or experimenting with more complex architectures like ResNet or VGGNet. This project is an excellent stepping stone for more advanced work in computer vision and deep learning.
 
+![Image](https://github.com/user-attachments/assets/18f1b98a-c7b7-4035-9723-3c3667ea51c3)
+
+![Image](https://github.com/user-attachments/assets/82d9082a-5cdc-4b77-9778-f823330248c7)
+
+![Image](https://github.com/user-attachments/assets/a2b57e74-4f59-4768-8e5b-11392f43a35d)
+
+![Image](https://github.com/user-attachments/assets/d56ae1d5-f5f9-41ec-8019-b3c246ef5f00)
